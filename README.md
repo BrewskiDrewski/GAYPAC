@@ -1,4 +1,4 @@
-# anti-trans-donations
+# anti-trans-political-donations
 Do you hate companies donating to anti- trans legislators? Yeah, me too
 
 The purpose of this project is multi-fold:
